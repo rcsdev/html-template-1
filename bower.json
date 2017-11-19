@@ -1,0 +1,29 @@
+{
+  "name": "test-html-responsive",
+  "authors": [
+    "rcsdev <rubencsdev@gmail.com>"
+  ],
+  "description": "Plantilla para diseño de página web responsivo con menú de navegación estático",
+  "main": "index.html",
+  "keywords": [
+    "template",
+    "bootstrap3",
+    "menu",
+    "estatico"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/rcsdev/html-template-1",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+	"jquery": "^3.2.1",
+    "bootstrap": "^3.3.7"
+	
+  }
+}

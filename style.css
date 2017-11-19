@@ -1,0 +1,39 @@
+.container {
+    width:1600px;    
+}
+
+.main {
+    margin-top: 100px;    
+}
+
+p,h1 {
+    margin:0px;
+    padding-bottom: 20px;
+}
+
+.view {
+    margin-top: 20px;
+    margin-right: 20px;
+    padding: 20px;
+    min-height:795px;
+    width: 80%;
+    border: 1px solid silver;
+}
+
+.footer {
+    text-align:center;
+    margin-top:20px;
+    padding:20px;
+    background-color:#e6e6e6;
+}
+
+.no-side-padding {
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+.submenu {
+    position: fixed;
+    top: 100px;
+    padding: 20px;
+}
